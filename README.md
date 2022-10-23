@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @legorie
-- 👀 I’m interested in writing code and fix things
+- 👀 I’m interested in writing code and to fix things (digital & physical)
 - 🌱 I’m currently learning Go & Kubernetes
 - 💞️ I’m looking to collaborate on learning platforms, K8S Operators & Cloud Native projects
 - 📫 How to reach me ... You'll find a way!
